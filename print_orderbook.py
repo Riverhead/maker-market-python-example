@@ -71,7 +71,7 @@ for offer in offers:
 
     if buy_which_token == "0xc66ea802717bfb9833400264dd12c2bceaa34a6d":
       b_token = "MKR"
-    elif sell_which_token == "0xa74476443119A942dE498590Fe1f2454d7D4aC0d":
+    elif buy_which_token == "0xa74476443119A942dE498590Fe1f2454d7D4aC0d":
       b_token = "W-GNT"
     else:
       b_token = "W-ETH"
